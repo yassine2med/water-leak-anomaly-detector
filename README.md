@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="water-leak-anomaly-detector" width="100%"></p>
+
 # water-leak-anomaly-detector
 
 Reads hourly water meter readings and flags nights when water never stopped flowing or when night use jumped far above normal. Both are classic signs of a leak.

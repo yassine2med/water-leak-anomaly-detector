@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="water-leak-anomaly-detector: Reads hourly water meter readings and flags nights when water never stopped flowing or when night use jumped far above">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1013"/><stop offset="1" stop-color="#171d21"/></linearGradient>
+<radialGradient id="glow" cx="0.83" cy="0.5" r="0.55"><stop offset="0" stop-color="#5fd6c8" stop-opacity="0.28"/><stop offset="1" stop-color="#5fd6c8" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.06"/></pattern>
+</defs>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+<rect width="1280" height="340" rx="22" fill="url(#bg)"/><rect width="1280" height="340" rx="22" fill="url(#dots)"/><rect width="1280" height="340" rx="22" fill="url(#glow)"/>
+<rect x="1" y="1" width="1278" height="338" rx="21" fill="none" stroke="#5fd6c8" stroke-opacity="0.35"/>
+<rect x="64" y="52" width="327" height="30" rx="15" fill="#5fd6c8"/>
+<text x="74" y="73" font-size="15" font-weight="700" fill="#0d1013">BUILDING SYSTEMS AND AIR QUALITY</text>
+<text x="64" y="150" font-size="44" font-weight="700" fill="#f1f5ef">water-leak-anomaly-detector</text>
+<text x="64" y="196" font-size="22" fill="#aeb8ae">Reads hourly water meter readings and flags nights when water</text><text x="64" y="226" font-size="22" fill="#aeb8ae">never stopped flowing or when night use jumped far above...</text>
+<rect x="64" y="276" width="78" height="32" rx="16" fill="#5fd6c8" fill-opacity="0.12" stroke="#5fd6c8" stroke-opacity="0.55"/><text x="103.0" y="297" text-anchor="middle" font-size="15" fill="#5fd6c8">Python</text>
+<circle cx="1060" cy="170" r="130" fill="none" stroke="#5fd6c8" stroke-opacity="0.10" stroke-width="1"/><circle cx="1060" cy="170" r="98" fill="none" stroke="#5fd6c8" stroke-opacity="0.17" stroke-width="2"/><circle cx="1060" cy="170" r="66" fill="none" stroke="#5fd6c8" stroke-opacity="0.24" stroke-width="3"/><circle cx="1060" cy="170" r="34" fill="none" stroke="#5fd6c8" stroke-opacity="0.31" stroke-width="4"/><circle cx="1117.0" cy="286.8" r="9" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1086.8" cy="109.7" r="7" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1091.9" cy="181.6" r="9" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1167.8" cy="97.3" r="7" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1031.2" cy="152.0" r="6" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1123.4" cy="151.8" r="5" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1115.4" cy="205.9" r="8" fill="#5fd6c8" fill-opacity="0.9"/><circle cx="1060" cy="170" r="10" fill="#5fd6c8"/>
+</g></svg>
