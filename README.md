@@ -2,6 +2,8 @@
 
 # water-leak-anomaly-detector
 
+[![CI](https://github.com/yassine2med/water-leak-anomaly-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/water-leak-anomaly-detector/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Reads hourly water meter readings and flags nights when water never stopped flowing or when night use jumped far above normal. Both are classic signs of a leak.
 
 ![Screenshot](docs/screenshot.png)
